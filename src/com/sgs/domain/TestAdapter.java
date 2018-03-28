@@ -9,7 +9,7 @@ public class TestAdapter {
 		s.getName();
 
 
-		System.out.println();
+		System.out.println("hello");
 	}
 
 }
